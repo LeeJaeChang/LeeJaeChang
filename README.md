@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**LeeJaeChang** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
+**LeeJaeChang** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.💩
 
 <div align="center">
 Here are some ideas to get you started:<br>
